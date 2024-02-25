@@ -1,0 +1,2 @@
+# step-counter-app
+GDSC SOLUTION CHALLENGE 2024 
